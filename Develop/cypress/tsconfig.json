@@ -1,0 +1,15 @@
+// This file is used to configure TypeScript for Cypress tests.
+{
+    "extends": "../tsconfig.json",
+    "compilerOptions": {
+      "target": "ES2020",
+      "lib": ["ES2020", "DOM"],
+      "types": ["cypress", "node"],
+      "isolatedModules": false,
+      "noEmit": true,
+      "composite": true,
+      "jsx": "react-jsx",
+      "strict": true
+    },
+    "include": ["**/*.tsx", "**/*.ts", "**/*.js", "**/*.jsx"]
+  }
