@@ -80,9 +80,10 @@ The Tech Quiz application is a MERN stack-based web app that allows users to tes
 The application You can access it at:(https://github.com/gamalmubarak/Cypress_Tech_Quiz_Test)
 
 Watch this Video for a walk through of the app [Application Demo]
-(https://1drv.ms/v/c/3b216777a5c674e6/EQgQ8vKRYdVGlL2QpgQUpMMBmjleZeMgek8WcFqBqdua4w?e=dxdGAN)
-(https://1drv.ms/v/c/3b216777a5c674e6/EY35gDoYLYdGp_2mKq9Can0BG2ZFQHL0n3ss5ZMjZrZSZQ?e=ZZPHGL)
+
+(https://1drv.ms/v/c/3b216777a5c674e6/EdCJe-b6cRpElgW0_aNy-08BlkCdzHQVbfpv0Cdl1YdO4g?e=gIUTrl)
 (https://1drv.ms/v/c/3b216777a5c674e6/ERU2dW_TzmtIvBptYh_-jpkB5MI_gK5DMfX5jW97h7gxbg?e=F4DnrM)
+(https://1drv.ms/v/c/3b216777a5c674e6/EQgQ8vKRYdVGlL2QpgQUpMMBmjleZeMgek8WcFqBqdua4w?e=dxdGAN)
  
 ---
 
